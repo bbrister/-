@@ -9,6 +9,4 @@ set hlsearch
 set incsearch
 set history=1000
 set undolevels=1000
-set autoindent
-set cindent
 au BufNewFile,BufRead,BufReadPost *.t set syntax=lua
